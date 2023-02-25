@@ -1,0 +1,223 @@
+[
+  {
+    "name":"Medical College Kolkata ",
+    "type":"govt",
+    "facility_type": "Hospital",
+    "address": "Medical College Kolkata, 88, College St, College Square, Kolkata, West Bengal 700073",
+    "contact_numbers": [
+     " 033 2255-1621"
+    ],
+    "latitude":"22.577058153329684",
+    "longitude":" 88.36125067723773",
+    "location":"https://goo.gl/maps/6r7GeAbJvN6SEVZ2A"
+  },
+    {
+      "name":"Institute of Post Graduate Medical Education and Research (IPGME&R) - SSKM Hospital",
+      "type":"govt",
+      "facility_type": "Hospital",
+      "address": " 244, A.J.C. Bose Road, Kolkata 700 020",
+      "contact_numbers": [
+        "EPABX No. 22041 100"
+      ],
+      "latitude": "22.5404493795788",
+      "longitude": " 88.3411680317132",
+      "location":"https://goo.gl/maps/GUbc8rvZUZpMMi8z7"
+    },
+    {
+      "name":"Nil Ratan Sircar Medical College & Hospital (NRSMC&H)",
+      "type":"govt",
+      "facility_type": "Hospital",
+      "address": "138,AJC Bose Road Kolkata,West Bengal 700014",
+      "contact_numbers": [
+        "033 2286 0033"
+      ],
+      "latitude":"22.56391514653647",
+      "longitude":", 88.36869592953775",
+      "location":"https://goo.gl/maps/ajun65AhEoM2oLwn8"
+    },
+    {
+      "name":"Appolo Multispeciality Hospitals",
+      "type":"Pvt",
+      "facility_type": "Hospital",
+      "address": "58, Canal Circular Road,Kolkata West Bengal  700 054, India",
+      "contact_numbers": [
+        "+91 33 4420 2122 / 2320 3040"
+      ],
+      "latitude": "22.574459989088037",
+      "longitude": " 88.40112975624214"
+    },
+    {
+      "name":"Peerless Hospital",
+      "type":"Pvt",
+      "facility_type": "Hospital",
+      "address": "360, Pancha Sayar Rd, Sahid Smirity Colony, Pancha Sayar, Kolkata, West Bengal 700094",
+      "contact_numbers": [
+        "03340111222"
+      ],
+      "latitude":"22.48102515123592",
+      "longitude":" 88.39418537389196",
+    "location": "https://goo.gl/maps/eCLoSmjmjer2hr4P7"
+    },
+    {
+      "name":"Woodlands",
+      "type":"Pvt",
+      "facility_type": "Hospital",
+      "address": "8/5, Alipore Road, Near Natural Library, Alipore Zoo & Visa House",
+      "contact_numbers": [
+      ],
+      "latitude": "22.53473346819744",
+      "longitude": " 88.32605863996005",
+      "location":"https://goo.gl/maps/Fv5P5FmrHmibDFXZ6"
+    
+    },
+    {
+      "name":"Ruby Hospital",
+      "type":"pvt",
+      "facility_type": "Hospital",
+      "address": " 576, Anandapur Main Rd, Golpark, Sector I, Kasba, Kolkata, West Bengal 700107",
+      "contact_numbers": [
+        "033 6687 1800"
+      ],
+      "longitude":"22.513681830817053",
+      "latitude":", 88.402883997568",
+      "location":"https://goo.gl/maps/VRVnDMqxriq1qzWHA"
+    },
+  {
+    "name":"AMRI Hospital - Salt Lake",
+    "type":"pvt",
+    "facility_type": "Hospital",
+    "address": "17,Lane, Central Park Road,Stadium Entrance Road,, 16, Broadway Rd, opposite salt lake, JC Block, Sector III, Bidhannagar, Kolkata, West Bengal 700098",
+    "contact_numbers": [
+      " 033 6680 0000 "
+    ],
+    "latitude": "22.568335191181376",
+    "longitude": " 88.41142512455104",
+    "location":"https://goo.gl/maps/xEW9e9rcyuLhHkCA6"
+
+  },
+  {
+   "name":"Manipal Hospital, Salt Lake",
+   "type":"pvt",
+   "facility_type": "Hospital",
+   "address": "IB-193, Broadway Rd, IB Block, Sector III, Bidhannagar, Kolkata, West Bengal 700106",
+   "contact_numbers":[
+    " 1800 102 4647"
+   ],
+   "latitude": "22.5726217262995",
+   "longitude": " 88.41283885524169",
+   "location":"https://goo.gl/maps/oz8ZM7wF2Tr7SLAt8"
+  },
+  {
+    "name":"Calcutta Heart Clinic & Hospital",
+    "type":"pvt",
+    "facility_type": "Hospital",
+    "address": "3, 1st Cross Rd, HC Block, Sector III, Bidhannagar, Kolkata, West Bengal 700106",
+    "contact_numbers":[
+      ": 033 7100 8202"
+    ],
+    "latitude": "22.575435253199505",
+    "longitude": "  88.41826748407809",
+    "location":"https://goo.gl/maps/m5QKdLTHmthZ8BfM7"
+  },
+  {
+    "name":"ILS Hospitals, Salt lake",
+    "type":"pvt",
+    "facility_type": "Hospital",
+    "address": "2nd Floor, 3rd Ave, near City Centre, DD Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+    "contact_numbers":[
+      " 033 4020 6500"
+    ],
+    "latitude": "22.59008292314311",
+    "longitude": "  88.41096729756936",
+    "location":"https://goo.gl/maps/NbjVkoybnFiTrMVb6"
+  },
+  {
+    "name":"Charnock Hospital",
+    "type":"pvt",
+    "facility_type": "Hospital",
+    "address": "BMC 195, Biswa Bangla Sarani, Tegharia, Newtown, Kolkata, West Bengal 700157",
+    "contact_numbers":[
+      "033 4050 0500"],
+      "latitude": "22.62847771882046",
+      "longitude": " 88.43414310370233",
+      "location":"https://goo.gl/maps/DH6kiaU2v6w2ncuw8"
+  },
+  {
+    "name":"Salt Lake City Medical Centre",
+    "type":"pvt",
+    "facility_type": "Hospital",
+    "address": "DD-10, near Oriental Bank, DD Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+    "contact_numbers":[
+      "08697221002"],
+  "location":"https://goo.gl/maps/DakE5dXFLkmxM4XT7 "
+},
+{
+  "name":"SEBA HOSPITAL- SALTLAKE",
+  "type":"pvt",
+  "facility_type": "Hospital",
+  "address": "DD-35, Salt Lake CitySector 1, Kolkata - 700 064  Beside Bidhannagar State Hospital",
+  "contact_numbers":[
+    "+91 7439343075 8768340843 9134682857"
+  ],
+  "location":"https://goo.gl/maps/PmZKRCMXL84WUANX7"
+},
+{
+  "name":"ANANDALOK HOSPITAL CL-88 , GASTRO DEPARTMENT",
+  "type":"pvt",
+  "facility_type": "Hospital",
+  "address": " SALT LAKE ,SEC-II,8NO WATER TANK, KOLKATA-91, Kolkata, West Bengal 700091",
+  "contact_numbers":[
+    "033 2337 7750"
+  ],
+  "location":"https://goo.gl/maps/CoR3hL1DKs3WUVvU7"
+},
+{
+  "name":"Mercy Hospital",
+  "type":"Pvt",
+  "facility_type":"Hospital",
+  "address":"125/1, Park St, Mullick Bazar, Park Street area, Kolkata, West Bengal 700017",
+  "contact_numbers":[
+    "033 6635 2000"
+  ],
+  "location":"https://goo.gl/maps/vQNxPPHCuE97PMrd6" 
+
+},
+{
+  "name":" DESUN Hospital, Kolkata",
+"type":"pvt",
+  "facility_type":"Hospital",
+  "address":":  Desun More, 720, Eastern Metropolitan Bypass, Golpark, Sector I, Kasba, Kolkata, West Bengal 700107",
+  "contact_numbers":[
+    " 090517 15171"],
+    "location":"https://goo.gl/maps/hxkNKf5GgKJ3QqQn8"
+},
+{
+  "name":"  Rabindranath Tagore International Institute of Cardiac Sciences, Kolkata ",
+  "type":"pvt",
+  "facility_type":"Hospital",
+  "address":": Premises No: 1489, Mukundapur Main Road, 124, Eastern Metropolitan Bypass, Mukundapur, Kolkata, West Bengal 700099",
+  "contact_numbers":[
+    "  080675 06860"],
+    "location":" https://goo.gl/maps/HnLyAHGfd71smB776"
+},
+{
+  "name":" Institute of Neurosciences, Kolkata",
+  "type":"pvt",
+  "facility_type":"Hospital",
+  "address":": 185, Acharya Jagadish Chandra Bose Rd, Beniapukur, Kolkata, West Bengal 700017",
+  "contact_numbers":[
+    "  033 4030 9999"],
+    "location":"https://goo.gl/maps/VssT5KRjx1SkC9KW9"
+},
+{
+  "name":" Narayana Superspeciality Hospital, Howrah, Kolkata",
+  "type":"Pvt",
+  "facility_type":"Hospital",
+"address": " 151, Andul Rd, B Shalimar Area, Shalimar, Howrah, West Bengal 711103",
+"contact_numbers":[
+  " 1860 208 0208"
+],
+"location":" https://goo.gl/maps/eCzFyLp8QcDrPym97"
+
+}
+]
