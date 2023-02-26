@@ -83,6 +83,21 @@ margin: 10px;
   }
   .quote
   {
-      color: yellow;
+      color: black;
       font-size: 25px;
+  }
+
+  .flipcard2 {
+    margin: auto;
+    margin-top: 15px;
+    background-color: transparent;
+    width: 650px;
+    height: 800px;
+    perspective: 1000px;
+    
+  }
+
+  .flipcard2:hover .flipcardinner {
+    transform: rotateY(180deg);
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
   }

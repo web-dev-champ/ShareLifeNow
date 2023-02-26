@@ -5,7 +5,6 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 import styles from './App.module.css';
 
 
-import Vaccine from "./components/Vaccine/vaccine";
 import NavBar from './components/Navbar/NavBar.jsx';
 import PlasmaInfo from './components/PlasmaInfo/plasmaInfo';
 import Hospitals from './components/Hospitals/hospitals';
@@ -17,6 +16,8 @@ import Login from './components/List/Donor/login';
 import UpdateDonor from './components/List/Donor/update';
 import LoginR from './components/List/Requester/login';
 import UpdateR from './components/List/Requester/update';
+//import Ambulance from './components/Ambulance/ambulance';
+
 
 const App = () =>{
     return(
@@ -31,6 +32,9 @@ const App = () =>{
         <Route exact path="/plasma/getdonors" component={DonorList}/>
         <Route exact path="/plasma/getrequesters" component={RequestList}/>
         <Route exact path="/hospitalslist" component={Hospitals}/>
+        {/* <Route exact path="/ambulancelist" component={Ambulance}/> */}
+
+
 
         <Route exact path="/plasma/login" component={Login}/>
         <Route exact path="/plasma/loginanddelete" component={Login}/>

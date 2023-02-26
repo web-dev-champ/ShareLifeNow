@@ -6,6 +6,7 @@
 }
 .para
 {
+    font-style: italic;
     font-size: 2em;
 }
 h1
@@ -51,4 +52,5 @@ h1
     .container {
         margin: 0 10%;
     }
+
 }
