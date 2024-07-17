@@ -28,3 +28,11 @@ Check out the [ShareLifeNow Demo](https://www.youtube.com/watch?v=gQsAPjfj3KQ) t
 
    ```bash
    git clone https://github.com/web-dev-champ/ShareLifeNow.git
+
+## Developed By:-
+
+- **[Srijan Sen](https://github.com/web-dev-champ/)** 
+- **Soumendu Tarafdar:** 
+- **Arkodeep Banik :** 
+- **Biswajit Adhikary:** 
+
