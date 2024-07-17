@@ -32,7 +32,7 @@ Check out the [ShareLifeNow Demo](https://www.youtube.com/watch?v=gQsAPjfj3KQ) t
 ## Developed By:-
 
 - **[Srijan Sen](https://github.com/web-dev-champ/)** 
-- **Soumendu Tarafdar:** 
-- **Arkodeep Banik :** 
-- **Biswajit Adhikary:** 
+- **[Soumendu Tarafdar](https://github.com/soumendu02)** 
+- **Arkodeep Banik** 
+- **[Biswajit Adhikary](https://github.com/Biswajitadhikary807)** 
 
