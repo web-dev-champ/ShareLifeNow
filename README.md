@@ -33,6 +33,6 @@ Check out the [ShareLifeNow Demo](https://www.youtube.com/watch?v=gQsAPjfj3KQ) t
 
 - **[Srijan Sen](https://github.com/web-dev-champ/)** 
 - **[Soumendu Tarafdar](https://github.com/soumendu02)** 
-- **Arkodeep Banik** 
+- **[Arkodeep Banik](https://github.com/Ark638)** 
 - **[Biswajit Adhikary](https://github.com/Biswajitadhikary807)** 
 
